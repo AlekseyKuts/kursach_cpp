@@ -1,0 +1,9 @@
+﻿  kursach.cpp
+D:\BSUIR\Kursach 2 Revenge of C++\kursach\kursach\kursach.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\Kursach 2 Revenge of C++\kursach\kursach\kursach.cpp(63,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\Kursach 2 Revenge of C++\kursach\kursach\kursach.cpp(85,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\Kursach 2 Revenge of C++\kursach\kursach\kursach.cpp(495,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\Kursach 2 Revenge of C++\kursach\kursach\kursach.cpp(569,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\BSUIR\Kursach 2 Revenge of C++\kursach\kursach\kursach.cpp(310): warning C4715: meat::getDoubleData: значение возвращается не при всех путях выполнения
+D:\BSUIR\Kursach 2 Revenge of C++\kursach\kursach\kursach.cpp(306): warning C4715: meat::getStrData: значение возвращается не при всех путях выполнения
+  kursach.vcxproj -> D:\BSUIR\Kursach 2 Revenge of C++\kursach\Debug\kursach.exe
